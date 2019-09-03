@@ -1,0 +1,1 @@
+This is Kosher's first git project!
